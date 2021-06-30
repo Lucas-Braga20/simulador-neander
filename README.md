@@ -59,7 +59,7 @@ O Botão "Executar" faz a leitura de toda seção de Instruções [0, 128[ execu
 
 O Botão "Executar Passo a Passo" faz a leitura de um par instrução e endereço para executá-lo ou pula valores que não representem uma instrução.
 
-O Botão "Resetar Ac" aloca o valor 0 para o acumulador. O Botão "Resetar Pc" aloca o valor 0 para o contador de programa. O Botão "Resetar Inst." aloca 0 para todas as posições da seção de instrução. O Botão "Resetar Dados" aloca 0 para todas as posições da seção de Dados. O Botão "Resetar Tudo" realiza todos os outros reset além de limpar os dados da execução total.
+O Botão "Resetar Ac" aloca o valor 0 para o acumulador. O Botão "Resetar Pc" aloca o valor 0 para o contador de programa. O Botão "Resetar Inst." aloca 0 para todas as posições da seção de instrução. O Botão "Resetar Dados" aloca 0 para todas as posições da seção de Dados. O Botão "Resetar Tudo" realiza todos os outros reset além de limpar os dados da execução gittotal.
 
 ## Tecnologias Utilizadas
 
