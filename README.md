@@ -66,3 +66,7 @@ O Botão "Resetar Ac" aloca o valor 0 para o acumulador. O Botão "Resetar Pc" a
 - HTML / CSS / JavaScript
 - Pré-processador SASS
 - Vue.JS
+
+## GitHub Pages
+
+Acesse o [GitHub Pages](https://lucas-braga20.github.io/simulador-neander/) para testar o simulador.
