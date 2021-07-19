@@ -20,4 +20,5 @@
 </script>
 
 <style>
+	@import '../public/icons/fontawesome-free-5.15.3-web/css/all.css';
 </style>
