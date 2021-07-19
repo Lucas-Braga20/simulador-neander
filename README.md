@@ -70,3 +70,31 @@ O Botão "Resetar Ac" aloca o valor 0 para o acumulador. O Botão "Resetar Pc" a
 ## GitHub Pages
 
 Acesse o [GitHub Pages](https://lucas-braga20.github.io/simulador-neander/) para testar o simulador.
+
+## Executar o projeto
+
+### Pré-requisitos:
+
+- npm / yarn;
+- git;
+
+```bash
+# Clonar repositório
+git clone https://github.com/Lucas-Braga20/simulador-neander.git
+
+# Acessar a pasta
+cd simulador-neander
+
+# Instalar as dependências (Project Setup)
+npm install
+```
+
+#### Compilar para desenvolvimento
+```bash
+npm run serve
+```
+
+#### Compilar para produção
+```bash
+npm run build
+```
